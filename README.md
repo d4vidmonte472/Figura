@@ -149,4 +149,4 @@ Help translate Figura to your native language on [Weblate](https://translate.fig
 
 * Katt has created a Blockbench extention which adds a special model format for Figura! Read more [here.](https://github.com/KitCat962/figura-format-bbplugin) - Note. This plugin is available on the Blockbench plugin browser and should be installed from there.
 
-* By searching "Figura" in the VSCode extention browser you can install Manuel's Figura [extension](https://marketplace.visualstudio.com/items?itemName=Manuel-Underscore.figura)! It adds multiple useful features including autocomplete for your model paths.
+* By searching "Figura" in the VSCode extention browser you can install Manuel's Figura [extension](https://marketplace.visualstudio.com/items?itemName=Manuel-Underscore.figura)! It adds multiple useful features including autocomplete for your model paths. 
